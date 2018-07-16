@@ -1,0 +1,70 @@
+nohup: ignoring input
+Swagger: skipping unknown type "org.acme.shipping.perishable.Case".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Business".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Order".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Contract".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Case".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Business".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Order".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Contract".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Case".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Business".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Order".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Contract".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Case".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Business".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Order".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Contract".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Case".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Business".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Order".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Contract".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Case".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Business".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Order".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Contract".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Case".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Business".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Order".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Contract".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Case".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Business".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Order".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Contract".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Case".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Business".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Order".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Contract".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Case".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Business".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Order".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Contract".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Case".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Business".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Order".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Contract".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Case".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Business".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Order".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Contract".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Case".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Business".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Order".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Contract".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Case".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Business".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Order".
+Swagger: skipping unknown type "org.acme.shipping.perishable.Contract".
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::8080
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1367:14)
+    at listenInCluster (net.js:1408:12)
+    at Server.listen (net.js:1492:7)
+    at module.exports.promise.then.then (/home/ubuntu/.nvm/versions/node/v8.11.1/lib/node_modules/composer-rest-server/cli.js:135:19)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
